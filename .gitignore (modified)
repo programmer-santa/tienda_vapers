@@ -1,0 +1,7 @@
+tests/
+*.log
+*.tsbuildinfo
+*.snapshot
+test-results/
+screenshots/
+videos/
